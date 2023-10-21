@@ -47,7 +47,7 @@
   {
    "fieldname": "start_time",
    "fieldtype": "Datetime",
-   "label": "Start Time"
+   "label": "Time Start"
   },
   {
    "fieldname": "medium",
